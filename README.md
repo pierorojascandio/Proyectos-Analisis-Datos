@@ -10,7 +10,7 @@ Durante mi experiencia profesional he desarrollado una fuerte orientación al ne
 
 En mi tiempo libre, disfruto seguir aprendiendo sobre nuevas herramientas y enfoques en analítica de datos, automatización y visualización, buscando constantemente mejorar mis habilidades técnicas y analíticas. Me caracterizo por mi **capacidad de análisis, comunicación efectiva, resolución de problemas y trabajo en equipo**.
 
-📄 **Mi CV en PDF:** [CV]([https://github.com/pierorojascandio/Proyectos-Analisis-Datos/blob/main/Proyecto%20de%20an%C3%A1lisis%20de%20demanda%20y%20variaci%C3%B3n%20de%20precios.ipynb](https://github.com/pierorojascandio/Proyectos-Analisis-Datos/blob/main/CV%20-%20Piero%20Gilmar%20Rojas%20Candio.pdf)
+📄 **Mi CV en PDF:** [CV](https://github.com/pierorojascandio/Proyectos-Analisis-Datos/blob/main/CV%20-%20Piero%20Gilmar%20Rojas%20Candio.pdf)
 
 Este repositorio tiene como objetivo **mostrar mis habilidades, compartir proyectos y documentar mi crecimiento profesional en el ámbito de Data Analytics y Business Intelligence**.
 

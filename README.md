@@ -16,7 +16,7 @@ Este repositorio tiene como objetivo **mostrar mis habilidades, compartir proyec
 
 ---
 
-# Tabla de Contenidos
+## Tabla de Contenidos
 
 - [Acerca de mí](https://github.com/pierorojascandio/Data-Analysis-Portfolio/blob/main/README.md#acerca-de-mi)
 
@@ -26,21 +26,18 @@ Este repositorio tiene como objetivo **mostrar mis habilidades, compartir proyec
    - [Análisis histórico de ventas en la industria de videojuegos](https://github.com/pierorojascandio/Data-Analysis-Portfolio/blob/main/README.md#-comparativa-de-total-ingresos-vs-a%C3%B1o-anterior--contososales)
  
 - Contacto
-
-## 📝 Otras Secciones
-- Herramientas y Tecnologías
-- Contacto
-
+  
 ---
+## 📁 Proyectos
 
-# 📊 Análisis de demanda y variación de precios con Python
+## 📊 Análisis de demanda y variación de precios con Python
 
-## Notebook
+### Notebook
 Puedes revisar el desarrollo completo del análisis en el siguiente notebook:
 
 👉 [Proyecto de análisis de demanda y variación de precios.ipynb](https://github.com/pierorojascandio/Proyectos-Analisis-Datos/blob/main/Proyecto%20de%20an%C3%A1lisis%20de%20demanda%20y%20variaci%C3%B3n%20de%20precios.ipynb)
 
-## Descripción
+### Descripción
 Proyecto de análisis de datos desarrollado en Python con el objetivo de **analizar la relación
 entre la variación de precios y la demanda de productos**, y **proponer un enfoque predictivo
 que apoye la toma de decisiones comerciales.**
@@ -48,13 +45,13 @@ que apoye la toma de decisiones comerciales.**
 El proyecto simula un caso de consultoría para una empresa comercializadora de productos,
 enfocado en definir estrategias de precios competitivas basadas en datos.
 
-## Objetivos
+### Objetivos
 - Analizar el comportamiento de ventas frente a variaciones de precio.
 - Identificar patrones entre precio base, precio final y unidades vendidas.
 - Realizar análisis exploratorio y estadístico de los datos.
 - Sentar las bases para un modelo predictivo de demanda.
 
-## Fuente de datos
+### Fuente de datos
 La fuente de datos es un archivo de texto que contiene información de ventas con las siguientes columnas:
 - **ID:** Identificador de la venta
 - **Store ID:** Identificador de la tienda
@@ -62,14 +59,14 @@ La fuente de datos es un archivo de texto que contiene información de ventas co
 - **Base Price:** Precio base del producto
 - **Units Sold:** Unidades vendidas
 
-## Herramientas
+### Herramientas
 - Python
 - Pandas
 - Numpy
 - Scikit-learn
 - Jupyter Notebook
 
-## Proceso de Análisis
+### Proceso de Análisis
 1. **Carga y exploración de datos**
    - Extracción y carga de información a un DataFrame
    - Identificación de tipos de datos, datos estadísticos y valores nulos
@@ -87,21 +84,21 @@ La fuente de datos es un archivo de texto que contiene información de ventas co
    - Relación entre reducción de precios y aumento de demanda
    - Identificación de tiendas con mayor volumen de ventas
 
-## Resultados
+### Resultados
 - Se identificó una relación directa entre variación de precios y unidades vendidas.
 - El tratamiento adecuado de datos permitió mejorar la calidad del análisis.
 - El proyecto demuestra el uso de Python como herramienta de análisis de datos aplicada a negocio.
 
 ---
 
-# 📊 Comparativa de Total Ingresos vs Año Anterior – ContosoSales
+## 📊 Comparativa de Total Ingresos vs Año Anterior – ContosoSales
 
-## Demo del Dashboard
+### Demo del Dashboard
 Puedes visualizar el funcionamiento del dashboard en el siguiente video:
 
 👉 **[Ver demo del dashboard Power BI en Youtube](https://youtu.be/dPycNrLcFQA)**
 
-## Descripción
+### Descripción
 Proyecto de Business Intelligence desarrollado en Power BI para la empresa
 Contoso, enfocado en el análisis comparativo de los **ingresos totales del año actual
 versus el año anterior**, permitiendo evaluar el desempeño financiero y la evolución de los
@@ -110,7 +107,7 @@ resultados en el tiempo.
 El dashboard utiliza indicadores visuales tipo **semáforo**, facilitando la interpretación
 rápida de los resultados por parte de usuarios de negocio.
 
-## Objetivos
+### Objetivos
 - Comparar el total de ingresos del año actual frente al año anterior.
 - Identificar incrementos o disminuciones en los ingresos.
 - Facilitar el análisis del desempeño financiero mediante indicadores claros.
@@ -118,12 +115,12 @@ rápida de los resultados por parte de usuarios de negocio.
 ## Fuente de datos
 - Base de datos Microsoft Access (datos estructurados y normalizados para su consumo en Power BI)
 
-## Herramientas
+### Herramientas
 - Power BI Desktop (DAX)
 - Power Query (ETL)
 - Microsoft Access
 
-## Proceso de Desarrollo
+### Proceso de Desarrollo
 
 ### 1. Extracción y Transformación de Datos (ETL)
 - Conexión directa a la base de datos en Access.
@@ -150,21 +147,21 @@ Se desarrollaron medidas DAX principalmente para:
   - 🔴 **Rojo**: ingresos menores al año anterior.
 - Enfoque en lectura rápida y toma de decisiones.
 
-## Resultados
+### Resultados
 - Visualización inmediata del desempeño financiero.
 - Identificación rápida de periodos con crecimiento o caída de ingresos.
 - Dashboard orientado a usuarios no técnicos y tomadores de decisión.
 
 ---
 
-# 📊 Análisis histórico de ventas en la industria de videojuegos
+## 📊 Análisis histórico de ventas en la industria de videojuegos
 
 ## Demo del Dashboard
 Puedes visualizar el funcionamiento del dashboard en el siguiente video:
 
 👉 **[Ver demo del dashboard Power BI en Youtube](https://youtu.be/ZmgXrKBB3Sc)**
 
-## Descripción
+### Descripción
 Proyecto de Business Intelligence orientado al análisis histórico de ventas en la industria
 de videojuegos, utilizando Power BI como herramienta de visualización y Power Query
 para el proceso de transformación y preparación de los datos.
@@ -173,20 +170,20 @@ El objetivo del dashboard es **permitir el análisis de las ventas a lo largo de
 identificando tendencias, mercados relevantes y desempeño por categorías clave dentro
 de la industria.**
 
-## Objetivos
+### Objetivos
 - Analizar el comportamiento histórico de ventas en la industria de videojuegos.
 - Identificar tendencias de crecimiento y periodos de mayor demanda.
 - Comparar ventas por regiones, plataformas y categorías.
 
-## Fuente de Datos
+### Fuente de Datos
 - Archivo Excel con información histórica de ventas de videojuegos (datos estructurados y tratados previamente para su análisis en Power BI)
 
-## Herramientas
+### Herramientas
 - Power BI Desktop
 - Power Query (ETL)
 - Microsoft Excel
 
-## Proceso de Desarrollo
+### Proceso de Desarrollo
 
 ### 1. Carga y Transformación de Datos
 - Importación del dataset desde Excel.
@@ -210,7 +207,7 @@ directamente desde el modelo transformado.
 - Uso de filtros para exploración por periodos y categorías.
 - Gráficos claros orientados a análisis temporal y comparativo.
 
-## Resultados
+### Resultados
 - Identificación de tendencias históricas en las ventas de videojuegos.
 - Visualización clara de mercados y periodos con mayor volumen de ventas.
 - Dashboard preparado para análisis exploratorio y toma de decisiones.

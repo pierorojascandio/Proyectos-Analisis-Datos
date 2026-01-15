@@ -14,6 +14,9 @@ En mi tiempo libre, disfruto seguir aprendiendo sobre nuevas herramientas y enfo
 
 Este repositorio tiene como objetivo **mostrar mis habilidades, compartir proyectos y documentar mi crecimiento profesional en el ámbito de Data Analytics y Business Intelligence**.
 
+
+---
+
 # 📊 Análisis de demanda y variación de precios con Python
 
 ## Notebook

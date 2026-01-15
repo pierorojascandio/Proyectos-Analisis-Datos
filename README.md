@@ -17,7 +17,7 @@ Este repositorio tiene como objetivo **mostrar mis habilidades, compartir proyec
 # 📊 Análisis de demanda y variación de precios con Python
 
 ## Notebook
-👉 [Análisis de Demanda y Variación de Precios](https://github.com/pierorojascandio/Proyectos-Analisis-Datos/blob/main/Proyecto%20de%20an%C3%A1lisis%20de%20demanda%20y%20variaci%C3%B3n%20de%20precios.ipynb)
+👉 [Proyecto de análisis de demanda y variación de precios.ipynb](https://github.com/pierorojascandio/Proyectos-Analisis-Datos/blob/main/Proyecto%20de%20an%C3%A1lisis%20de%20demanda%20y%20variaci%C3%B3n%20de%20precios.ipynb)
 
 ## Descripción
 Proyecto de análisis de datos desarrollado en Python con el objetivo de analizar la relación

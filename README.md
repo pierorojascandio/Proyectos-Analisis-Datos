@@ -6,7 +6,7 @@ Hola, soy **Piero Rojas**, Ingeniero de Sistemas de Información colegiado con m
 
 Cuento con sólidos conocimientos en **Business Intelligence y Data Analytics**, trabajando con herramientas como **Power BI (DAX)**, **SQL Server / PL/SQL Oracle**, **Python**, **ETL** y **Excel**, las cuales he aplicado para transformar datos en información clara y accionable para la toma de decisiones. Estoy certificado como **PL-300: Microsoft Power BI Data Analyst Associate**, lo que respalda mi experiencia en modelado de datos, visualización y diseño de dashboards.
 
-Durante mi experiencia profesional he desarrollado una fuerte orientación al negocio, colaborando estrechamente con equipos de IT y usuarios finales, asegurando la calidad de los datos, el rendimiento de las soluciones y una adecuada **experiencia de usuario** en los reportes.
+Durante mi experiencia profesional he desarrollado una fuerte orientación al negocio, colaborando estrechamente con equipos de TI y usuarios finales, asegurando la calidad de los datos, el rendimiento de las soluciones y una adecuada experiencia de usuario en los reportes.
 
 En mi tiempo libre, disfruto seguir aprendiendo sobre nuevas herramientas y enfoques en analítica de datos, automatización y visualización, buscando constantemente mejorar mis habilidades técnicas y analíticas. Me caracterizo por mi **capacidad de análisis, comunicación efectiva, resolución de problemas y trabajo en equipo**.
 
@@ -19,6 +19,8 @@ Este repositorio tiene como objetivo **mostrar mis habilidades, compartir proyec
 # 📊 Análisis de demanda y variación de precios con Python
 
 ## Notebook
+Puedes revisar el desarrollo completo del análisis en el siguiente notebook:
+
 👉 [Proyecto de análisis de demanda y variación de precios.ipynb](https://github.com/pierorojascandio/Proyectos-Analisis-Datos/blob/main/Proyecto%20de%20an%C3%A1lisis%20de%20demanda%20y%20variaci%C3%B3n%20de%20precios.ipynb)
 
 ## Descripción
@@ -35,8 +37,8 @@ enfocado en definir estrategias de precios competitivas basadas en datos.
 - Realizar análisis exploratorio y estadístico de los datos.
 - Sentar las bases para un modelo predictivo de demanda.
 
-## Dataset
-El dataset contiene información de ventas con las siguientes variables principales:
+## Fuente de datos
+La fuente de datos es un archivo de texto que contiene información de ventas con las siguientes columnas:
 - **ID:** Identificador de la venta
 - **Store ID:** Identificador de la tienda
 - **Total Price:** Precio final de venta
@@ -52,17 +54,17 @@ El dataset contiene información de ventas con las siguientes variables principa
 
 ## Proceso de Análisis
 1. **Carga y exploración de datos**
-   - Inspección de tipos de datos
-   - Identificación y tratamiento de valores nulos
+   - Extracción y carga de información a un DataFrame
+   - Identificación de tipos de datos, datos estadísticos y valores nulos
 
 2. **Limpieza y preparación**
    - Corrección de registros inconsistentes
-   - Normalización de variables relevantes
+   - Creación y ajuste de variables relevantes
 
 3. **Análisis exploratorio**
-   - Estadísticos descriptivos
-   - Comparación entre precios base y precios finales
-   - Análisis de unidades vendidas
+   - Comparación entre demanda, precio base y precio final
+   - Análisis de unidades vendidas por tienda
+   - Creación de un modelo predictivo en relación al precio final y demanda
 
 4. **Insights**
    - Relación entre reducción de precios y aumento de demanda
@@ -147,7 +149,7 @@ Puedes visualizar el funcionamiento del dashboard en el siguiente video:
 
 👉 **[Ver demo del dashboard Power BI en Youtube](https://youtu.be/ZmgXrKBB3Sc)**
 
-## 📌 Descripción del Proyecto
+## Descripción
 Proyecto de Business Intelligence orientado al análisis histórico de ventas en la industria
 de videojuegos, utilizando Power BI como herramienta de visualización y Power Query
 para el proceso de transformación y preparación de los datos.
